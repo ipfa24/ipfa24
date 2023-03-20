@@ -1,6 +1,18 @@
 ### Hi there, I'm Imron Mustari (IPFA) 👋
-
-### and here is my stats
+### <p>
+    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+### and here is my stats <details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    -🔭 I'm currently studying Front End Development </br>
+    - - 👯 I would love to try a Front End Development internship.</br>
+    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:imronmustari214@gmail.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br>
+</details>
 
   <img src="https://github-readme-stats.vercel.app/api?username=ipfa24&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipfa24&theme=monokai"/>
