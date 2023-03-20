@@ -1,9 +1,9 @@
 ### Hi there, I'm Imron Mustari (IPFA) 👋
-### <p>
+###                                                                                                                                                      <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
-### and here is my stats <details>
+### and here is my stats                                                                                                                           <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     -🔭 I'm currently studying Front End Development </br>
     - - 👯 I would love to try a Front End Development internship.</br>
