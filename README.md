@@ -14,7 +14,7 @@
     - 👯 I would love to try a Front End Development internship. </br>
     - 🤔 I am looking for help to master programming. hehe </br>
     - 💬 Ask me about anything. </br>
-    - 📫 How to contact me: <a href="href="mailto:imronmutari214@gmail.com">Email me! </a> </br>
+    - 📫 How to reach me: <a href="mailto:imronmustari214@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/him </br>
     - ⚡ Fun facts: ... </br>
 </details>
