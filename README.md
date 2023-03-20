@@ -19,10 +19,16 @@
     - ⚡ Fun facts: ... </br>
 </details>
 
-### Let's connect!
+
   <img src="https://github-readme-stats.vercel.app/api?username=ipfa24&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipfa24&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipfa24&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
+
+### Let's connect!
+
+<p>
+    <a href="https://www.linkedin.com/in/imron-mustari-a884a5217/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
